@@ -9,7 +9,7 @@
     
     <h1>BANGUN DATAR</h1>
     <ul>
-        <li><a href="belah_ketupat copys.php">Belah ketupat</a></li>
+        <li><a href="belah_ketupat copy.php">Belah ketupat</a></li>
         <li><a href="jajargenjang copy.php">Jajar Genjang</a></li>
         <li><a href="persegi_panjang copy.php">Persegi panjang</a></li>
         <li><a href="persegi copy.php">Persegi</a></li>
